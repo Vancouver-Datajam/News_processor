@@ -1,14 +1,14 @@
-# Vancouver Datajam 2021 Project template 
+# Vancouver Datajam 2023 News Processor Project 
 
-This repository contains a Python project template.
+This repository is for the Vancouver Datajam 2023 Hackathon
 
 ## Project title
-
+News Processor Project 
 ## Project statement
 
 ## Project team members
 
-Team lead:
+Team lead:  Gabriel Queirozz
 
 Mentor:
 
