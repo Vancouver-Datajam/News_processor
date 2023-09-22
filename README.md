@@ -10,7 +10,7 @@ News Processor Project
 
 Team lead:  Gabriel Queirozz
 
-Mentor:
+Mentor: Kristen Basaraba
 
 Documentation:
 
