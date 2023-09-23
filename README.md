@@ -20,6 +20,7 @@ Modelling:
 
 Sanity checking: 
 
+
 ## Hackathon Schedule
 # 📅 September 22
 
@@ -43,9 +44,7 @@ Sanity checking:
 3:30 PM: Networking Event Begins
 6:00 PM: Vancouver Datajam 2023 Closing Ceremony
 
--------------------------------------------------------------
 
-## Vancouver Datajam 2021 Schedule: [deprecated]
 
 ### Main page: https://vancouverdatajam.ca/
 #### Event format: 100% online
