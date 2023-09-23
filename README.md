@@ -18,7 +18,9 @@ Scripting:
 
 Modelling: 
 
-Sanity checking: 
+Sanity checking:
+
+Testing: Martin Woo
 
 
 ## Hackathon Schedule
