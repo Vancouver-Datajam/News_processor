@@ -45,7 +45,7 @@ Sanity checking:
 
 -------------------------------------------------------------
 
-## Vancouver Datajam 2021 Schedule:
+## Vancouver Datajam 2021 Schedule: [deprecated]
 
 ### Main page: https://vancouverdatajam.ca/
 #### Event format: 100% online
