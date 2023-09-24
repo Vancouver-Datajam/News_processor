@@ -23,3 +23,6 @@ Sanity checking:
 Testing: Martin Woo
 
 
+## Project Documentation
+
+This project scope, journey and development is described in [documentation](/documentation/README.md)
