@@ -1,6 +1,6 @@
 # cretaed by: Sirpreet (Siri) Dhillon 
 # original work by: Siri, Alice, Elgin, Sama 
-# PRoject: News Processor | Vancouver DataJams 2023
+# Project: News Processor | Vancouver DataJams 2023
 # Date created: Sept 23, 2023 
 # Python version: Python 3.9.13
 
