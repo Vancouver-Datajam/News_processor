@@ -8,19 +8,19 @@ News Processor Project
 
 ## Project team members
 
-Team lead:  Gabriel Queirozz
+Team lead:  Gabriel Queiroz
 
 Mentor: Kristen Basaraba
 
-Documentation:
+Documentation: Gabriel Queiroz, Elgin Mclaren, Jerry C
 
-Scripting: 
+Scripting: Elgin Mclaren, Martin Woo, Tyler Oh, Thomas , Leah Dang, Sirpreet (Siri) Dhillon, Alice, Jerry c
 
-Modelling: 
+Modelling: Martin Woo, Tyler, Thomas, Alice
 
-Sanity checking:
+Visualization: Alice, Sirpreet (Siri) Dhillon, Thomas Duong
 
-Testing: Martin Woo
+Testing: Martin Woo, Gabriel Queiroz
 
 
 ## Project Documentation
