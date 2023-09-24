@@ -25,6 +25,9 @@ The project goal is to create a tool to detect nuances in climate news articles.
 - Explore various approaches to modeling sentiment analysis, including Standard Machine Learning (Regressions, SVMs, Naive Bayes) and Deep Learning-based approaches.
 - Develop a sentiment analysis model tailored to climate news. This model should be trained to detect positive, negative, and neutral sentiments accurately.
 
+### Pipeline 
+Simulate a pipeline that preprocess news and interact with one of the models
+
 ### User Interface
 
 - Develop a user-friendly interface that allows users to input or upload climate news articles for sentiment analysis.
@@ -34,7 +37,7 @@ The project goal is to create a tool to detect nuances in climate news articles.
 
 ### 1. Data Collection
 
-We explored Kaggle, Open Source Datasets, GitHub, and scraped data from New York Times and The Guardian((#add the link to scrappers here). It was challenging to find consistent datasets that fulfilled our project scope requirements for running sentiment analysis on climate news. We proceeded to use Huggingface expert-labeled datasets. Finally, we assumed that "risk" and "opportunity" should refer to negative and positive news.
+We explored Kaggle, Open Source Datasets, GitHub, and scraped data from [New York Times and The Guardian](/scripts/data_scraping.py). It was challenging to find consistent datasets that fulfilled our project scope requirements for running sentiment analysis on climate news. We proceeded to use Huggingface expert-labeled datasets. Finally, we assumed that "risk" and "opportunity" should refer to negative and positive news.
 
 ### 2. Data Preprocessing
 
@@ -53,6 +56,11 @@ Word Clouds were used to visualize words associated with positive and negative n
 
 We explored different techniques such as CountVectorizer, TF-IDF Vectorizer, and different models such as Support Vector Machine, Logistic Regression, Naive Bayes, and LSTM Neural Network.
 
-### 5. User Interface
+### 5. Pipeline
+Our pipeline is jupyter notebook called [pipeline.ipynb](/notebooks/pipeline.ipynb)
+### 6. User Interface
 
-#To be completed
+The use interface was created using Gradio
+
+### 7. Bag of goodies
+Our exploration lead us to ideas for [future features](/notebooks/Ideas_exploration.ipynb)
