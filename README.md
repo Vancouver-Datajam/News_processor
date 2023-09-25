@@ -14,11 +14,11 @@ Mentor: Kristen Basaraba
 
 Documentation: Gabriel Queiroz, Elgin Mclaren, Jerry C
 
-Scripting: Elgin Mclaren, Martin Woo, Tyler Oh, Thomas , Leah Dang, Sirpreet (Siri) Dhillon, Alice, Jerry c
+Scripting: Elgin Mclaren, Martin Woo, Tyler Oh, Thomas , Leah Dang, Sirpreet (Siri) Dhillon, Alice, Jerry c, Jooeun Park
 
 Modelling: Martin Woo, Tyler, Thomas, Alice
 
-Visualization: Alice, Sirpreet (Siri) Dhillon, Thomas Duong
+Visualization: Alice, Sirpreet (Siri) Dhillon, Thomas Duong, Jooeun Park
 
 Testing: Martin Woo, Gabriel Queiroz
 
